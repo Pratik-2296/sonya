@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sonya/static/css/main.ca67ef22.css",
+    "main.js": "/sonya/static/js/main.4d782b1e.js",
+    "static/js/488.e75445ad.chunk.js": "/sonya/static/js/488.e75445ad.chunk.js",
+    "index.html": "/sonya/index.html",
+    "main.ca67ef22.css.map": "/sonya/static/css/main.ca67ef22.css.map",
+    "main.4d782b1e.js.map": "/sonya/static/js/main.4d782b1e.js.map",
+    "488.e75445ad.chunk.js.map": "/sonya/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.4d782b1e.js"
+  ]
+}
